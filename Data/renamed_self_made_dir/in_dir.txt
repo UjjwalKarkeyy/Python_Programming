@@ -1,0 +1,1 @@
+I am inside self_made_dir
